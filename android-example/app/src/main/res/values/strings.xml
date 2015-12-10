@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="app_name">android-example</string>
+
+    <string name="url">URL data:</string>
+    <string name="play">play</string>
+    <string name="test">I am test Button!</string>
+
+    <string name="ex1">ex1: Bunny jumping</string>
+    <string name="ex2">ex2: Bouncing ball</string>
+    <string name="ex3">ex3: Bouncy popup</string>
+    <string name="ex4">ex4: Floating ball</string>
+    <string name="ex5">ex5: Rocket start</string>
+    <string name="ex6">ex6: True Sine</string>
+    <string name="ex7">ex7: Linear bouncing</string>
+    <string name="ex8">ex8: Biting moves</string>
+
+</resources>
