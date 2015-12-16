@@ -1,5 +1,7 @@
 # ipfx.org-examples-android
-Examples how to use (www.ipfx.org) animation interpolators for Android. Feel free to contribute!
+
+Examples how to use (www.ipfx.org) animation interpolators for Android. Feel free to contribute!  
+Demo on GooglePlay (https://play.google.com/store/apps/details?id=org.ipfx.example)
 
 # Basic usage
 
